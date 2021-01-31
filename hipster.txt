@@ -17,10 +17,7 @@ croix vice gastropub.
 
 heres some more stuff I guess
 
-<<<<<<< HEAD
 More modifying now blahh
-=======
 More modifying now blahh blahh
->>>>>>> master
 
 
